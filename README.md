@@ -1,3 +1,5 @@
+<h1 align="center"> Jeongseok Lee</h1>
+
 <h3 align="center">
     🛠 Tech Stack 🛠
 </h3>
