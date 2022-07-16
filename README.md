@@ -36,7 +36,7 @@
 
 <div align="center">
   
-![sxxk2's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxxk2&theme=highcontrast&show_icons=true)
+![sxxk2's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxxk2&theme=highcontrast&show_icons=true&count_private=true)
 
 
 <!--
