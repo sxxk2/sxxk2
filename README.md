@@ -3,6 +3,15 @@
 <br>
 
 <div align="center">
+
+<p>
+<a href="https://sxxk2.tistory.com" taget=_blank">
+<img src="https://img.shields.io/badge/Blog-grey?style=plastic&logo=Storyblok&logoColor=FF8800"/>
+</a>
+</p>
+
+<br>
+
 <img src="https://img.shields.io/badge/Python-grey?style=plastic&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Django-grey?style=plastic&logo=django&logoColor=092E20"/>
 <img src="https://img.shields.io/badge/FastAPI-grey?style=plastic&logo=fastapi&logoColor=009688"/>
