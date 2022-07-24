@@ -41,18 +41,24 @@
 
 </div>
 
+
 <br>
 <br>
+<br>
+
+#
 
 <div align="center">
   
 ![sxxk2's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxxk2&theme=highcontrast&show_icons=true&count_private=true)
 
+</div>
+
 <br>
 <br>
+
+<div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsxxk2&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-
-
