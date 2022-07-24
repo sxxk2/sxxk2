@@ -21,6 +21,8 @@
 
 <img src="https://img.shields.io/badge/MySQL-grey?style=plastic&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/MongoDB-grey?style=plastic&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/Redis-grey?style=plastic&logo=redis&logoColor=DC382D"/>
+
 
 <br>
 <br>
@@ -31,12 +33,10 @@
 <br>
 <br>
 
-<img src="https://img.shields.io/badge/Amazon AWS-grey?style=plastic&logo=amazon aws&logoColor=232F3E"/>
-
+<img src="https://img.shields.io/badge/Amazon AWS-grey?style=plastic&logo=amazon aws&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/Docker-grey?style=plastic&logo=docker&logoColor=2496ED"/>
-
+<img src="https://img.shields.io/badge/NGINX-grey?style=plastic&logo=NGINX&logoColor=009639"/>
 <img src="https://img.shields.io/badge/GitHub Actions-grey?style=plastic&logo=github actions&logoColor=2088FF"/>
-<img src="https://img.shields.io/badge/Redis-grey?style=plastic&logo=redis&logoColor=DC382D"/>
 
 
 </div>
