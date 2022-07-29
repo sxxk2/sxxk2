@@ -23,7 +23,7 @@
 <p>
 <img src="https://img.shields.io/badge/Amazon AWS-grey?style=plastic&logo=amazon aws&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/Docker-grey?style=plastic&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/NGINX-grey?style=plastic&logo=NGINX&logoColor=009639"/>
+<img src="https://img.shields.io/badge/Nginx-grey?style=plastic&logo=NGINX&logoColor=009639"/>
 <img src="https://img.shields.io/badge/GitHub Actions-grey?style=plastic&logo=github actions&logoColor=2088FF"/>
 </p>
 
